@@ -1,0 +1,2 @@
+# Aatmnirbhar
+App for blind
