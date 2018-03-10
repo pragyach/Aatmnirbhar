@@ -1,0 +1,4 @@
+#Sat Mar 10 17:20:50 IST 2018
+base.0=C\:\\Users\\user.DESKTOP-U8LVE8N\\Downloads\\Blind\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
