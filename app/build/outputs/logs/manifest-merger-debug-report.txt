@@ -1,121 +1,121 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:2:1-30:12
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\91b0571e319e5757165b91f1e3636ec6\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\d44381aa06c7fc0f2f264a728e085c85\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\752464a1c9719a6fbda8088dabeda23f\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\32ae1e715ee593a6a053f3568994d41c\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b455490af0bd09eddde2ebfe0dbb2cfe/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/d03cac0d1e230e439bad6bbe7f8bcd46/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/a535c6966e210fe4d39693ed2aae3152/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/daa1338b4e2d2e6fec624285ee48856b/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
+		INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
+		INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:5:5-68
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:5:5-68
 	android:name
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:5:22-65
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:5:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:6:5-74
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:6:5-74
 	android:name
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:6:22-71
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:6:22-71
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:7:5-66
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:7:22-64
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:7:22-64
 uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:8:5-87
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:8:5-87
 	android:name
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:8:29-85
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:8:29-85
 application
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:10:5-28:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\91b0571e319e5757165b91f1e3636ec6\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\91b0571e319e5757165b91f1e3636ec6\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\d44381aa06c7fc0f2f264a728e085c85\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\d44381aa06c7fc0f2f264a728e085c85\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\752464a1c9719a6fbda8088dabeda23f\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\752464a1c9719a6fbda8088dabeda23f\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\32ae1e715ee593a6a053f3568994d41c\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\32ae1e715ee593a6a053f3568994d41c\AndroidManifest.xml:22:5-20
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:10:5-28:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b455490af0bd09eddde2ebfe0dbb2cfe/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b455490af0bd09eddde2ebfe0dbb2cfe/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/d03cac0d1e230e439bad6bbe7f8bcd46/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/d03cac0d1e230e439bad6bbe7f8bcd46/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/a535c6966e210fe4d39693ed2aae3152/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/a535c6966e210fe4d39693ed2aae3152/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/daa1338b4e2d2e6fec624285ee48856b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/daa1338b4e2d2e6fec624285ee48856b/AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:13:9-41
 	android:icon
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:15:9-40
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:15:9-40
 activity#com.example.techolabz.ble_demo.MainActivity
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:16:9-27:20
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:16:9-27:20
 	android:name
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:16:19-77
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:16:19-77
 intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.ACTION_SHUTDOWN+android.intent.action.MAIN+android.intent.action.SCREEN_OFF+android.intent.action.SCREEN_ON+android.intent.category.LAUNCHER
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:17:13-26:29
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:17:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:18:25-66
 action#android.intent.action.SCREEN_OFF
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:19:17-82
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:19:17-82
 	android:name
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:19:25-72
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:19:25-72
 action#android.intent.action.SCREEN_ON
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:20:17-81
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:20:17-81
 	android:name
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:20:25-71
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:20:25-71
 action#android.intent.action.ACTION_POWER_CONNECTED
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:21:17-94
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:21:17-94
 	android:name
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:21:25-84
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:21:25-84
 action#android.intent.action.ACTION_POWER_DISCONNECTED
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:22:17-97
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:22:17-97
 	android:name
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:22:25-87
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:22:25-87
 action#android.intent.action.ACTION_SHUTDOWN
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:23:17-87
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:23:17-87
 	android:name
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:23:25-77
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:23:25-77
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml:25:27-74
 uses-sdk
-INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\91b0571e319e5757165b91f1e3636ec6\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\91b0571e319e5757165b91f1e3636ec6\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\d44381aa06c7fc0f2f264a728e085c85\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\d44381aa06c7fc0f2f264a728e085c85\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\752464a1c9719a6fbda8088dabeda23f\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\752464a1c9719a6fbda8088dabeda23f\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\32ae1e715ee593a6a053f3568994d41c\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\32ae1e715ee593a6a053f3568994d41c\AndroidManifest.xml:20:5-43
-INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
+INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
+INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b455490af0bd09eddde2ebfe0dbb2cfe/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b455490af0bd09eddde2ebfe0dbb2cfe/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/d03cac0d1e230e439bad6bbe7f8bcd46/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/d03cac0d1e230e439bad6bbe7f8bcd46/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/a535c6966e210fe4d39693ed2aae3152/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/a535c6966e210fe4d39693ed2aae3152/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/daa1338b4e2d2e6fec624285ee48856b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/daa1338b4e2d2e6fec624285ee48856b/AndroidManifest.xml:20:5-43
+INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
+INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user.DESKTOP-U8LVE8N\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\91b0571e319e5757165b91f1e3636ec6\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/shashank/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b455490af0bd09eddde2ebfe0dbb2cfe/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
+		INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\user.DESKTOP-U8LVE8N\Downloads\Blind\app\src\main\AndroidManifest.xml
+		INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
+		ADDED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shashank/Aatmnirbhar/app/src/main/AndroidManifest.xml
