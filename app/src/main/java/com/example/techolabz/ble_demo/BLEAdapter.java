@@ -26,10 +26,12 @@ public class BLEAdapter extends ArrayAdapter<BLE>   {
     //status check code
     private int MY_DATA_CHECK_CODE = 0;
 
+
     public BLEAdapter(Context context, ArrayList<BLE> bleArrayList) {
         super(context, R.layout.row_structure, bleArrayList);
         this.context = context;
         this.bleArrayList = bleArrayList;
+
     }
 
     public static class DataHolder {
@@ -147,27 +149,10 @@ public class BLEAdapter extends ArrayAdapter<BLE>   {
 
         }
         String address = ble.getDeviceAddress().toString();
-        String k;
 
-        switch (address) {
-            case "00.A0:50:E6:94:65":
-                k = "Welcome to Delhi Metro.Turn right for the ticket counter.";
-                speakWords(k);
-                break;
-            case "00.A0:50:E6:93:E4":
-                k = "You have reached ticket counter. After booking, move towards left for platform number 1 and towards right for platform number 2";
-                speakWords(k);
-                break;
-            case "00.A0:50:E6:C7:76":
-                k = "You have reached platform number 1";
-                speakWords(k);
-                break;
-            case "00.A0:50:E6:87:F0":
-                k = "You have reached platform number 2";
-                speakWords(k);
-                break;
 
-        }
+
+
 
 
         return convertView;

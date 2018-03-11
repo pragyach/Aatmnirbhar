@@ -62,6 +62,8 @@ public class MainActivity extends Activity {
     private ArrayList<Byte> subUrlarrayList;
     private ArrayList<Byte> urlarrayList;
     private ArrayList<Byte> suffUrlarrayList;
+    public  String deviceAddress;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -149,32 +151,9 @@ public class MainActivity extends Activity {
     }
 
 
-    public boolean onKeyDown(int keyCode, KeyEvent event) {
-        if (keyCode == KeyEvent.KEYCODE_VOLUME_DOWN) {
-
-//            Intent intent=new Intent(MainActivity.this,SecondActivity.class);
-//            startActivity(intent);
-
-            Intent intent = new Intent("android.media.action.IMAGE_CAPTURE");
-            startActivity(intent);
-
-            return true;
-        }
-        if (keyCode == KeyEvent.KEYCODE_VOLUME_UP) {
-
-            return true;
-        }
-
-        else {
-            return super.onKeyDown(keyCode, event);
-        }
-    }
 
 
-
-
-    @Override
-    protected void onResume() {
+        protected void onResume() {
         super.onResume();
 
         // Ensures Bluetooth is enabled on the device.  If Bluetooth is not currently enabled,
@@ -770,7 +749,8 @@ public class MainActivity extends Activity {
 
 
                             String deviceName = device.getName();
-                            String deviceAddress = device.getAddress();
+                            deviceAddress = device.getAddress();
+
 
 
                             // if (tcz_flag1 == 1 || tcz_flag2 == 1 || tcz_flag3 == 1) {
@@ -814,6 +794,9 @@ public class MainActivity extends Activity {
                                     if (deviceName != "TCZ") {
                                         if (b.getDeviceAddress().equals(ble.deviceAddress)) {
                                             flag = 1;
+                                           // String bkd =b[0].deviceAddress();
+                                           // Toast.makeText(this, "BLE Not Supported", Toast.LENGTH_SHORT).show();
+                                            Toast.makeText(getApplicationContext(),"Carpe Diem",Toast.LENGTH_SHORT).show();
                                             bleArrayList.set(index, ble);
 
                                         }
@@ -821,6 +804,7 @@ public class MainActivity extends Activity {
 
                                     }
                                 }
+
 
                             }
 
@@ -835,6 +819,7 @@ public class MainActivity extends Activity {
                             if (bleAdapter == null) {
                                 bleAdapter = new BLEAdapter(getApplicationContext(), bleArrayList);
                                 listView.setAdapter(bleAdapter);
+
                             }
                             Comparator<BLE> bleArraylistComparator = new Comparator<BLE>() {
                                 @Override
@@ -857,6 +842,32 @@ public class MainActivity extends Activity {
 
 
     static final char[] hexArray = "0123456789ABCDEF".toCharArray();
+    public boolean onKeyDown(int keyCode, KeyEvent event) {
+        if (keyCode == KeyEvent.KEYCODE_VOLUME_DOWN) {
+
+//            Intent intent=new Intent(MainActivity.this,SecondActivity.class);
+//            startActivity(intent);
+
+            Intent intent = new Intent("android.media.action.IMAGE_CAPTURE");
+            startActivity(intent);
+
+            return true;
+        }
+        if (keyCode == KeyEvent.KEYCODE_VOLUME_UP) {
+
+
+
+            Intent intent = new Intent(MainActivity.this, Nav_bar.class);
+            intent.putExtra("epuzzle", deviceAddress);
+            startActivity(intent);
+            return true;
+
+        } else {
+            return super.onKeyDown(keyCode, event);
+        }
+
+    }
+
 
     private static String bytesToHex(byte[] bytes) {
         char[] hexChars = new char[bytes.length * 2];
