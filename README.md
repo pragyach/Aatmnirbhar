@@ -1,4 +1,4 @@
-## Atma Nirbhar 
+## AatmNirbhar 
               
 Our product - “Atma Nirbhar”, which in english means self-reliant, aims of making blind or visually impaired people independent. The idea is to help such people in navigation in crowded places by determining the present location. Other then this it provides feature for currency identification.
 
